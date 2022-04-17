@@ -1,0 +1,32 @@
+  .under{
+    text-decoration: underline;
+  }
+
+  body {
+    background-color: rgb(197, 174, 174);
+  }
+  
+  .line{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .pic1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .pic2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+  .youtube{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
